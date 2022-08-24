@@ -14,3 +14,4 @@ For the primary keys, verify that the column is unique. Otherwise, create a comp
 Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
+![QuickDBD](https://user-images.githubusercontent.com/107385310/186326632-3c95c204-4f0d-483a-ba0a-c34842b89dcf.png)
